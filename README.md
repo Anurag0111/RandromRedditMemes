@@ -1,1 +1,1 @@
-An android app developed in Kotlin that's lets you share random memes from Reddit. :)
+An android app developed in Kotlin that let's you share random memes from Reddit. :)
